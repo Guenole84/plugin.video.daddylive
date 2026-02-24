@@ -8,7 +8,7 @@ Dépôt Kodi pour l'addon DaddyLive (Live TV & Sports).
 
 1. Dans Kodi : **Paramètres → Système → Modules complémentaires** → activer **Sources inconnues**
 2. **Modules complémentaires → Installer depuis un fichier zip**
-3. Ajoute la source : `https://raw.githubusercontent.com/Guenole84/plugin.video.daddylive/main/`
+3. Ajoute la source : `https://guenole84.github.io/plugin.video.daddylive/`
 4. Installe `repository.daddylive-1.0.0.zip` depuis `repository.daddylive/`
 5. **Installer depuis un dépôt → DaddyLive Repository → Extensions vidéo → Daddylive**
 

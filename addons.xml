@@ -35,9 +35,9 @@
     </requires>
     <extension point="xbmc.addon.repository" name="DaddyLive Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Guenole84/plugin.video.daddylive/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Guenole84/plugin.video.daddylive/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Guenole84/plugin.video.daddylive/main/</datadir>
+            <info compressed="false">https://guenole84.github.io/plugin.video.daddylive/addons.xml</info>
+            <checksum>https://guenole84.github.io/plugin.video.daddylive/addons.xml.md5</checksum>
+            <datadir zip="true">https://guenole84.github.io/plugin.video.daddylive/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
